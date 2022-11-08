@@ -82,7 +82,7 @@ img{
 /*======= Create a selector for the about section to have the following styles:
   margin-top: 20px;
 */
-section.about{
+.about-section{
   margin-top: 20px;
 }
 
@@ -99,7 +99,7 @@ section.about{
 /*======= Create a selector for the address tag in the contact-section class to have the following styles:
    line-height: 2;
 */
-#address{
+address{
   line-height: 2;
 }
 

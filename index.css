@@ -99,7 +99,7 @@ img{
 /*======= Create a selector for the address tag in the contact-section class to have the following styles:
    line-height: 2;
 */
-address{
+#address{
   line-height: 2;
 }
 
